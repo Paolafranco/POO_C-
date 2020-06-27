@@ -54,7 +54,7 @@ Puedes encontrar mucho más información en las siguientes páginas:
 
       •	C#: https://docs.microsoft.com/en-us/dotnet/csharp/
       
-   ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
+   ![alt text](https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png)
                                   
                          
 
