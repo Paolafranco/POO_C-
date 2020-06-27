@@ -1,6 +1,7 @@
 # PROGRAMACIÓN  ORIENTADA A OBJETOS EN C#
+## Tienda de Tecnología
 
-Realice un programa de ventas de  computadoras, el cual contiene clases, metodos y atributos todo esto lo realice en Programación Orientada a Objetos en C#.
+Realice un programa de ventas tecnológicas, el cual contiene clases, metodos y atributos todo esto lo realice en Programación Orientada a Objetos en C#.
 
 ## PRE-REQUISITOS: 📋
 
