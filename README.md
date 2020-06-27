@@ -11,24 +11,24 @@ Realice un programa de ventas de  computadoras, el cual contiene clases, metodos
       •	Visual Studio 2019: Permite a los desarrolladores crear sitios y aplicaciones web, así como servicios web en cualquier entorno compatible con la plataforma. NET
       
 
-                              ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-AiTVArtj8DchxEJ2i_-ByMkGk1ZLoG-ueA&usqp=CAU)
-
+                            
+  ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-AiTVArtj8DchxEJ2i_-ByMkGk1ZLoG-ueA&usqp=CAU)
 ### INSTALACIÓN: 🔧
 
 
 Entramos a la siguiente página: https://visualstudio.microsoft.com/es/downloads/
 
       •	PASO 1: Vamos a comprobar que nuestra máquina está lista para que instalemos Visual Studio 2019. Tendremos que realizar algunas actualizaciones y liberar algo de espacio.
-                                      ![alt text]( https://signposthelp.zendesk.com/hc/article_attachments/360007164617/image-0.png)
+  ![alt text]( https://signposthelp.zendesk.com/hc/article_attachments/360007164617/image-0.png)                                    
 
       •	PASO 2: vamos a obtener nuestra descarga de Visual Studio 2019 para prepararnos para la instalación.
-                                      ![alt text]( https://visualstudio.microsoft.com/wp-content/uploads/2017/02/mobile_install-1024x571.jpg)
+   ![alt text]( https://visualstudio.microsoft.com/wp-content/uploads/2017/02/mobile_install-1024x571.jpg)                                   
 
       •	PASO 3: Ejecute el programa de instalación y elija instalar los componentes de acuerdo a lo que usted necesite.
-                                      ![alt text]( https://www.campusmvp.es/recursos/image.axd?picture=/2019/2T/vs2019/Apertura.png)
+   ![alt text]( https://www.campusmvp.es/recursos/image.axd?picture=/2019/2T/vs2019/Apertura.png)                                 
 
       •	PASO 4: Ya está listo puede empezar a desarrollar sus programas. 
-                                     ![alt text]( https://visualstudio.microsoft.com/wp-content/uploads/2019/03/lightbulb-dark-Still-1200.jpg)
+   ![alt text]( https://visualstudio.microsoft.com/wp-content/uploads/2019/03/lightbulb-dark-Still-1200.jpg)                                 
 
 
 ### PRUEBAS DE ESTILO DE CODIFICACIÓN: ⌨️
@@ -54,18 +54,19 @@ Puedes encontrar mucho más información en las siguientes páginas:
 
       •	C#: https://docs.microsoft.com/en-us/dotnet/csharp/
       
-                            ![alt text](https://i0.wp.com/www.ppsystems.se/wp-content/uploads/2017/03/C-logo.jpg?ssl=1)
-                            
+   ![alt text](https://i0.wp.com/www.ppsystems.se/wp-content/uploads/2017/03/C-logo.jpg?ssl=1)
+                                  
+                         
 
       •	Visual Studio 2019: https://visualstudio.microsoft.com/es/vs/
       
-                             ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-AiTVArtj8DchxEJ2i_-ByMkGk1ZLoG-ueA&usqp=CAU)
+  ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-AiTVArtj8DchxEJ2i_-ByMkGk1ZLoG-ueA&usqp=CAU)                           
 
 
       •	Programación Orientada a Objetos:  https://desarrolloweb.com/articulos/499.php
       
-                            ![alt text](https://dc722jrlp2zu8.cloudfront.net/media/cache/15/c2/15c206d27bfc509fa1c3f938efbaa374.jpg)
-
+   ![alt text](https://dc722jrlp2zu8.cloudfront.net/media/cache/15/c2/15c206d27bfc509fa1c3f938efbaa374.jpg)
+                         
 
 ### AUTORES: ✒️
 
