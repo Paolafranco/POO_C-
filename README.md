@@ -54,7 +54,7 @@ Puedes encontrar mucho más información en las siguientes páginas:
 
       •	C#: https://docs.microsoft.com/en-us/dotnet/csharp/
       
-   ![alt text](https://i0.wp.com/www.ppsystems.se/wp-content/uploads/2017/03/C-logo.jpg?ssl=1)
+   ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
                                   
                          
 
