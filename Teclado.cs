@@ -1,36 +1,23 @@
 ﻿using System;
 
-namespace DeberPao2
+namespace DeberProgra2
 {
-    class Teclado
+    public class Teclado : GeneradorProductosTecnologicos
     {
-        public int Id { get; set; }
         public string Modelo { get; set; }
+        public string Marca { get; set; }
+        public float Precio { get; set; }
 
-        Teclado teclados;
-        public Teclado Miteclado
-        {
-            get
-            {
-                return teclados;
-            }
-            set
-            {
-                teclados = value;
-            }
 
-        }
-        public string Escribir(string nombre)
+
+        public string Escribir()
         {
             return "Porfavor, Verifique si está bien el teclado, el Mouse y el disco duro";
         }
 
-        public string Borrar() 
+        public string Borrar()
         {
-            if (teclados != null)
-                return "Si, todo esta bien muchas gracias";
-            else
-                return "No, esta bien tienen fallas";
+            return "Si, todo esta bien muchas gracias";
         }
 
         public string Enumerar()
@@ -42,6 +29,9 @@ namespace DeberPao2
         {
             return "";
         }
-
+        public Teclado() : base()
+        {
+        }
+      
     }
 }

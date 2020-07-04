@@ -1,44 +1,38 @@
 ﻿using System;
 
-namespace DeberPao2
+namespace DeberProgra2
 {
-    class DiscoDuro
+    public class DiscoDuro : GeneradorProductosTecnologicos
     {
-        public int Id { get; set; }
-        public string Modelo { get; set; }
-        public float Memoria { get; set; }
+            public string Modelo { get; set; }
+            public string Memoria { get; set; }
+            public string Marca { get; set; }
+            public float Precio { get; set; }
 
-        DiscoDuro discoduro;
-        public DiscoDuro Midisco
-        {
-            get
+            
+            public string Almacenar(string nombre)
             {
-                return discoduro;
-            }
-            set
-            {
-                discoduro = value;
+                return "";
             }
 
-        }
-        public string Almacenar(string nombre)
-        {
-            return "";
-        }
+            public string GuardaInfor()
+            {
+                return "";
+            }
 
-        public string GuardaInfor()
-        {
-            return "";
-        }
+            public string Registrar()
+            {
+                return "";
+            }
 
-        public string Registrar()
-        {
-            return "";
-        }
+            public string EliminaInfor()
+            {
+                return "";
+            }
 
-        public string EliminaInfor()
-        {
-            return "";
+            public DiscoDuro() : base()
+            {
+            }
         }
     }
-}
+

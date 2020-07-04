@@ -1,26 +1,18 @@
 ﻿using System;
 
-namespace DeberPao2
+namespace DeberProgra2
 {
-    class Mouse
+    public class Mouse : GeneradorProductosTecnologicos
     {
-        public int Id { get; set; }
         public string Modelo { get; set; }
-        public string Precio  { get; set; }
+        public string Marca { get; set; }
+        public float Precio { get; set; }
 
-        Mouse mouse;
-        public Mouse Mimouse
+
+        public Mouse() : base()
         {
-            get
-            {
-                return mouse;
-            }
-            set
-            {
-                mouse = value;
-            }
-
         }
+
         public string MoverIzquierdo(string nombre)
         {
             return "Gracias Paola, por su compra";

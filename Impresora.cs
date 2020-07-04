@@ -1,47 +1,40 @@
-﻿
-using System;
+﻿using System;
 
 namespace DeberProgra2
 {
-        public class Computadora : GeneradorProductosTecnologicos
+        public class Impresora : GeneradorProductosTecnologicos
         {
             public string Marca { get; set; }
             public string Modelo { get; set; }
             public float Precio { get; set; }
 
-
-            public Computadora() : base()
-            {
-            }
-
-
+           
             public new string Prender()
             {
-                return $"La computadora {Id} {Marca} {Modelo} {base.Prender()}";
+                return $"La impresora {Id} {Marca} {Modelo} {base.Apagar()}";
+
             }
-            public string Escribir()
+            public string Imprimir()
             {
                 return "";
             }
 
-            public string Guardar()
+            public string Escanear()
             {
                 return "";
             }
 
-            public string Eliminar()
+            public string Copiar()
             {
                 return "";
             }
-
-            public string Buscar()
+            public Impresora() : base()
             {
-                return "";
             }
-
             public new string Apagar()
             {
-            return $"La computadora {Id} {Marca} {Modelo} {base.Apagar()}";
+                return $"La impresora {Id} {Marca} {Modelo} {base.Apagar()}";
+
             }
-        }
+         }
     }
